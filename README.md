@@ -88,4 +88,4 @@ Now run on client side following command
 
 #### 3.  Remote-­Access configuration VYOS (L2TP/IPsec) :
 
-Check [PDF](VPNConfigurationonVYOS.pdf)
+Check PDF
