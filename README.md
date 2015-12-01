@@ -82,10 +82,10 @@ persist-tun
 verb 3              
 
 Now run on client side following command                
-**openvpn ­­config /etc/openvpn/client.conf **
+**openvpn ­­config /etc/openvpn/client.conf**
 
 
 
 #### 3.  Remote-­Access configuration VYOS (L2TP/IPsec) :
 
-Check [PDF]     
+Check [PDF](VPNConfigurationonVYOS.pdf)
