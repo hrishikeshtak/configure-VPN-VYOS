@@ -24,7 +24,7 @@ exit
 client side 
 ========================
 (Note : First install openvpn)
-(Create client.conf , and below ines , save it to /etc/openvpn/)
+(Create client.conf , and add below lines , save it to /etc/openvpn/)
 (Note : copy ca.art from server and copy to /etc/openvpn/)
 
 auth-user-pass
